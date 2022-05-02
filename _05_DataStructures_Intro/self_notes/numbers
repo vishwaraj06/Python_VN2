@@ -1,0 +1,6 @@
+Number data types store numeric values. They are immutable data types, means that changing the value of a number data type results in a newly allocated object.
+
+Number objects are created when you assign a value to them. For example −
+
+var1 = 1
+var2 = 10
