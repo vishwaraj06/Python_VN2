@@ -33,5 +33,8 @@ dict5={'address':'chennai'}
 dict3.update(dict5)
 print("after update:",dict3)
 print("Set default:",dict3.setdefault('age',None))
-
-
+dict3.popitem()
+print( "after pop item:",dict3)
+dict3.pop('age')
+print("after pop:",dict3)
+print("has key:",dict3.has_key('gender'))

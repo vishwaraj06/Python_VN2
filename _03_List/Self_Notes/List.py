@@ -24,31 +24,23 @@ print("$$$$$$$$$")
 mylist.reverse()
 print("reversal list:",mylist)
 print("$$$$$$$$$")
-
 #7.sort
 mylist.sort()
 print("after sorting:",mylist)
 print("$$$$$$$$$")
-
-
 #accessing list
 print("mylist[4]:",mylist[4])
 print("mylist[4:9]",mylist[4:9])
-
 #update list
 mylist[2]=('raja')
 print("after update:",mylist)
-
 # delete list
 del mylist[3]
 print("after deleting index postion 3:",mylist)
-
 #max
 print("max of list:",max(list2))
-
 #min
 print("min of list:",min(list2))
-
 #length
 print("length of list:",len(mylist))
 
