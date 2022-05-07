@@ -52,5 +52,5 @@ print('Message2 : ',msg)
 
 x = 'Hello World'
 x = [1,2,3,4,5,6,7,8]
-for x[-1] in x:
-    print(x[-1])
+for i in x:
+    print(i)

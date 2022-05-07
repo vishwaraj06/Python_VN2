@@ -50,7 +50,6 @@ print("Addition :", str2 + str1)
 print("----------3. Multiplying---------")
 # 4. Multiplying
 str1 = 'HELLO '
-print(str1[3])
 print("Multiplication :", str1 * 5)
 
 print("----------4. Membership ---------")
