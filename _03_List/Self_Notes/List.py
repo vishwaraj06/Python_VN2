@@ -44,4 +44,8 @@ print("min of list:",min(list2))
 #length
 print("length of list:",len(mylist))
 
+'''if ob2==1:
+    print("Leap Year")
+else:
+    print("Not a Leap Year")'''
 

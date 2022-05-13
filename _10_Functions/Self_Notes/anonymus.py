@@ -1,5 +1,5 @@
 nums = [1, 34, 23, 56, 89, 44, 92]
-odds = list(filter(lambda x: x % 2 != 0, nums))
+odds = list(filter(lambda x: x % 2 == 0, nums))
 print("Map:", odds)
 
 print("*************************")
@@ -14,3 +14,6 @@ result = filter(lambda x: x % 2 != 0, seq)
 print(list(result))
 result = filter(lambda x: x % 2 == 0, seq)
 print(list(result))
+
+
+

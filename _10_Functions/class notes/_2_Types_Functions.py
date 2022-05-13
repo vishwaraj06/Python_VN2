@@ -9,9 +9,7 @@ x = 10
 x  <==> variable 
 10 <==> value
 =  <==> Assignment operator 
-'''
-print("Value of x : ", x)
-'''
+''''''
 Defining a Function: 
 
 * You can define functions to provide the required functionality. 
