@@ -1,4 +1,3 @@
-
 print("----Without class variables---------")
 class Employee:
     # instance variables - each object has their own data
